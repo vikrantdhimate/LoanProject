@@ -1,0 +1,80 @@
+@CHARSET "ISO-8859-1";
+.heading
+{
+           font-size: 2em !important;
+    line-height: 28px;
+    margin: 9px 0 24px 0;
+    color: black;
+    font-weight: 200;
+    letter-spacing: -1px;
+    	
+}
+
+.paragraphstyle
+{
+ 
+    color: #777777;
+    line-height: 17px;
+    margin: 0 0 8px;
+
+}
+
+.sitemap 
+{
+    margin: 8px 0 0 15px;
+    display: block;
+    margin: 10px 0 0 0;
+    color: black;
+    font-size: 18px;
+}
+
+.sitemap1
+{
+    margin: 10px 0 0 15px;
+    display: block;
+   
+    color: grey;
+    font-size: 18px;
+    margin-left: 30px;
+    color: grey;
+}
+.imagesize
+{
+	height: 400px;
+    width: 800px;
+}
+
+
+.headingh2
+{
+	    font-size: 1.4em;
+    font-weight: 400;
+    letter-spacing: normal;
+    line-height: 27px;
+    margin: 0 0 14px 0;
+    color: #0088cc;
+        font-family: inherit;
+} 
+
+.headingh2-color
+{
+	    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: normal;
+    line-height: 27px;
+    margin: 0 0 14px 0;
+    color: black;
+        font-family: inherit;
+} 
+
+.headingh3-color
+{
+	  font-size: 15px;
+    font-weight: 400;
+    letter-spacing: normal;
+    line-height: 27px;
+    margin: 0 0 14px 0;
+    color: #08c;
+        font-family: inherit;
+	
+}
